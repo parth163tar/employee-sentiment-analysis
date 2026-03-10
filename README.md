@@ -54,7 +54,9 @@ employee-sentiment-analysis
 ├── requirements.txt
 ├── README.md
 └── .env.example
+
 🔧 Setup Instructions
+
 1️⃣ Clone the Repository
 git clone https://github.com/parth163tar/employee-sentiment-analysis.git
 cd employee-sentiment-analysis
@@ -62,7 +64,9 @@ cd employee-sentiment-analysis
 pip install -r requirements.txt
 3️⃣ Run the Notebook
 jupyter notebook notebooks/employee_sentiment_analysis.ipynb
+
 🧠 Methodology
+
 1️⃣ Data Preprocessing
 
 The dataset contains employee email communications with attributes such as sender, message body, and timestamp.
